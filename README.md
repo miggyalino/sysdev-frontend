@@ -1,8 +1,8 @@
 # SYSDEV FRONT-END ASSESSMENT by Jose Miguel Alino
 
 ## Technologies Used
-- Nextjs, React, PrismaORM, Typescript
-- Framer Motion, SWR (for fetching)
+- Nextjs, React, Typescript
+- Framer Motion
 
 ## How to Setup
 - Run 'npm install'
