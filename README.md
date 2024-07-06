@@ -1,5 +1,7 @@
 # SYSDEV FRONT-END ASSESSMENT by Jose Miguel Alino
 
+# About this Project
+
 ## Technologies Used
 - Nextjs, React, Typescript
 - Framer Motion
